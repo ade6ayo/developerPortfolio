@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Test Cases for Budget Manager Screens',
+          title: 'Test Cases for Budget Manager App', //2
           description:
-            'Summarized test progress, execution results, and effort for test cases based on the Budget Manager demo app, including test coverage and results by environment.',
-          imageUrl:
-            'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(319).jpg?raw=true',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Budget Manager Screens',
-          description:
-            'Showcased demo budget manager app with screenshots, providing the basis for creating and executing Zephyr Scale tests. Click to access full pdf summary report ',
+            'Summarized test progress, execution results, and effort for test cases based on the Budget Manager demo app, including the test coverage and results by environment. Click to access full pdf summary report.',
           imageUrl:
             'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(320).jpg?raw=true',
-          link: 'Zephyr Scale - Jira.pdf',
+          link: 'https://github.com/ade6ayo/developerPortfolio/blob/7cf46b2e539c7b04aec713ac7704f457a3a5ff89/Zephyr%20Scale%20-%20Jira.pdf',
+        },
+        {
+          title: 'Budget Manager Screens', //1
+          description:
+            'Showcased demo budget manager app with screenshots, providing the basis for creating and executing Zephyr Scale tests.',
+          imageUrl:
+            'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(319).jpg?raw=true',
+          link: 'https://docs.google.com/document/d/12RK0MWpR0x1pfwOY17TGDfMFJk9fSNrHf9rNOJEGD6k/edit',
         },
       ],
     },
