@@ -33,6 +33,14 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
+          title: 'Test Progress Report For XYZ Android Mobile App', //2
+          description:
+            'Detailed execution status, defect status, and testing suggestions for the Android version of the XYZ Mobile App.',
+          imageUrl:
+            'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(321).png?raw=true',
+          link: 'https://docs.google.com/document/d/1vQaFAzWTjd4oKBiCqV3AUb6eewSRwvoFApV8BLPEfz8/edit',
+        },
+        {
           title: 'Test Case Report for Budget Manager App', //2
           description:
             'Summarized test progress, execution results, and effort for test cases based on the Budget Manager demo app, including the test coverage and results by environment. Click to access full pdf summary report.',
