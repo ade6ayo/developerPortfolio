@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Test Cases for Budget Manager App', //2
+          title: 'Test Case Report for Budget Manager App', //2
           description:
             'Summarized test progress, execution results, and effort for test cases based on the Budget Manager demo app, including the test coverage and results by environment. Click to access full pdf summary report.',
           imageUrl:
             'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(320).jpg?raw=true',
-          link: 'https://github.com/ade6ayo/developerPortfolio/blob/7cf46b2e539c7b04aec713ac7704f457a3a5ff89/Zephyr%20Scale%20-%20Jira.pdf',
+          link: 'https://drive.google.com/file/d/1p45wLbnpBHxvMnnaDFtCOVCz1j0QKa1C/view?usp=drive_link',
         },
         {
           title: 'Budget Manager Screens', //1
