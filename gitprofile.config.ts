@@ -38,7 +38,7 @@ const CONFIG = {
             'These projects follow a structured software testing life cycle (STLC): the e-commerce website development includes key features such as login, product browsing, cart management, checkout, and payment gateway integration using OpenCart. Beginning with requirement analysis and test planning to define scope, objectives, and methodologies, test case development covers critical functions like login and checkout. After setting up the test environment, execution involves rigorous testing, defect management, and comprehensive reporting to ensure readiness for production. Similarly, the HR module project involves testing functionalities such as employee management, salary processing, and leave management, following STLC phases to ensure thorough testing, risk management, and quality assurance before deployment.',
           imageUrl:
             'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(318).jpg?raw=true',
-          link: 'https://drive.google.com/file/d/1v2-glTBQRklcIWSTzd4CfpzE56k3MEXr/view?usp=drive_link',
+          link: 'https://drive.google.com/file/d/1g5J7hJNk3MGZGCDuXkf9LS-GA90rgufE/view?usp=drive_link',
         },
         {
           title: 'OpenCart', //4
@@ -104,7 +104,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1bsqSOm7bpNFgvXwgy9RyGQHbKCoZvjig/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/12Zfs3RINK5m-VcDzl85AU0qEmhZsJzc1/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
