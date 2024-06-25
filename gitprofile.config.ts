@@ -38,7 +38,7 @@ const CONFIG = {
             'Detailed execution status, defect status, and testing suggestions for the Android version of the XYZ Mobile App.',
           imageUrl:
             'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(321).png?raw=true',
-          link: 'https://docs.google.com/document/d/1vQaFAzWTjd4oKBiCqV3AUb6eewSRwvoFApV8BLPEfz8/edit?usp=sharing',
+          link: 'https://docs.google.com/document/d/1vQaFAzWTjd4oKBiCqV3AUb6eewSRwvoFApV8BLPEfz8/edit',
         },
         {
           title: 'Test Case Report for Budget Manager App', //2
