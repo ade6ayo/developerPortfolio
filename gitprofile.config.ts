@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Test Cases for Budget Manager Screens',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Summarized test progress, execution results, and effort for test cases based on the Budget Manager demo app, including test coverage and results by environment.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(319).jpg?raw=true',
           link: 'https://example.com',
         },
         {
           title: 'Budget Manager Screens',
           description:
-            'Showcased demo budget manager app with screenshots, providing the basis for creating and executing Zephyr Scale tests.',
+            'Showcased demo budget manager app with screenshots, providing the basis for creating and executing Zephyr Scale tests. Click to access full pdf summary report ',
           imageUrl:
-            'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(319).jpg?raw=true',
-          link: 'https://docs.google.com/document/d/12RK0MWpR0x1pfwOY17TGDfMFJk9fSNrHf9rNOJEGD6k/edit',
+            'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(320).jpg?raw=true',
+          link: 'Zephyr Scale - Jira.pdf',
         },
       ],
     },
