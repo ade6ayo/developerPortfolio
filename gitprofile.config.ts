@@ -33,7 +33,23 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Test Progress Report For XYZ Android Mobile App', //2
+          title: 'OpenCart Software Testing Lifecycle Visual Illustration', //5
+          description:
+            'These projects follow a structured software testing life cycle (STLC): the e-commerce website development includes key features such as login, product browsing, cart management, checkout, and payment gateway integration using OpenCart. Beginning with requirement analysis and test planning to define scope, objectives, and methodologies, test case development covers critical functions like login and checkout. After setting up the test environment, execution involves rigorous testing, defect management, and comprehensive reporting to ensure readiness for production. Similarly, the HR module project involves testing functionalities such as employee management, salary processing, and leave management, following STLC phases to ensure thorough testing, risk management, and quality assurance before deployment.',
+          imageUrl:
+            'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(318).jpg?raw=true',
+          link: 'https://www.figma.com/board/TWe6MQGm3kRj51ux88ZJJl/Software-Testing---Two-Projects-%231%2C-%232----OpenCart-Project-and-HR-Module-to-Add-to-Resume?node-id=0-1&t=GU9GWWzMDEEu0X8Y-0',
+        },
+        {
+          title: 'OpenCart', //4
+          description:
+            'Developed a user-friendly and secure e-commerce platform using OpenCart. Features include user registration, login, product catalog, shopping cart, checkout, payment gateway integration, and order management. The project folder includes test plans, test case development, test environments, and test strategy.',
+          imageUrl:
+            'https://github.com/ade6ayo/developerPortfolio/blob/main/Screenshot%20(322).png?raw=true',
+          link: 'https://drive.google.com/drive/folders/1UG57G5AvrHAri_0mz-AOHIFbFKtUXy0V?usp=drive_link',
+        },
+        {
+          title: 'Test Progress Report For XYZ Android Mobile App', //3
           description:
             'Detailed execution status, defect status, and testing suggestions for the Android version of the XYZ Mobile App.',
           imageUrl:
