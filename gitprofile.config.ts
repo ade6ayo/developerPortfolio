@@ -110,6 +110,7 @@ const CONFIG = {
     'Java',
     'Kotlin',
     'Python',
+    'JavaScript',
     'Selenium Webdriver, IDE & Grid',
     'Trello & Zephyr Scale',
     'Apache JMeter',
