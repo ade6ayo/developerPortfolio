@@ -116,6 +116,7 @@ const CONFIG = {
     'Trello & Zephyr Scale',
     'Apache JMeter',
     'CI/CD',
+    'Jenkins',
     'API Testing',
     'Confluence',
     'Blazemeter',
