@@ -123,6 +123,7 @@ const CONFIG = {
     'Playright',
     'Git',
     'Github',
+    'GitLab',
     'Docker',
     'Http',
     'CSS',
