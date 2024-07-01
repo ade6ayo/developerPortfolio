@@ -115,6 +115,7 @@ const CONFIG = {
     'Selenium Webdriver, IDE & Grid',
     'Trello & Zephyr Scale',
     'Apache JMeter',
+    'CI/CD',
     'API Testing',
     'Confluence',
     'Blazemeter',
