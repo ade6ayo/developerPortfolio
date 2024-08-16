@@ -104,7 +104,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/12Zfs3RINK5m-VcDzl85AU0qEmhZsJzc1/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1jgucutk2MDNO-OTKoIbscdJgO3K7x7Mb/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Kotlin',
