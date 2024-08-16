@@ -107,10 +107,12 @@ const CONFIG = {
       'https://drive.google.com/file/d/12Zfs3RINK5m-VcDzl85AU0qEmhZsJzc1/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Java',
     'Kotlin',
     'Python',
     'JavaScript',
+    'TypeScript',
+    'Cucumber',
+    'Java',
     'C#',
     'Postman & Newman',
     'Selenium Webdriver, IDE & Grid',
@@ -133,11 +135,10 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'test IO',
-      position: 'Quality Assurance Tester',
-      from: 'November 2021',
+      company: 'Self-Employed',
+      position: 'Freelance AI Quality Assurance Engineer',
+      from: 'November 2023',
       to: 'Present',
-      companyLink: 'https://test.io/',
     },
     {
       company: 'Scale AI',
@@ -145,6 +146,13 @@ const CONFIG = {
       from: 'February 2023',
       to: 'November 2023',
       companyLink: 'https://scale.com/',
+    },
+    {
+      company: 'Filmhouse',
+      position: 'Manual Quality Assurance Engineer',
+      from: 'June 2021',
+      to: 'January 2023',
+      companyLink: 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.filmhouseng.com/about-us&ved=2ahUKEwiJo9GS_viHAxUlQEEAHXVSNc4QFnoECAcQAQ&usg=AOvVaw2msl9Ap4XziT8JqFNfdgxy',
     },
   ],
   certifications: [
@@ -161,12 +169,6 @@ const CONFIG = {
     },
   ],
   educations: [
-    {
-      institution: 'University of Ibadan',
-      degree: 'MSc. Managerial Psychology',
-      from: '2023',
-      to: '2024',
-    },
     {
       institution: 'University of Ibadan',
       degree: 'B.Ed. Counseling Psychology',
