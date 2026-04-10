@@ -104,39 +104,37 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1jgucutk2MDNO-OTKoIbscdJgO3K7x7Mb/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1QiIZs3wWQCkkI_RabS2VpkTwO0pxwl24/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    'React',
     'Kotlin',
+    'Puppeteer',
     'Python',
     'JavaScript',
     'TypeScript',
-    'Cucumber',
     'Java',
     'C#',
     'Postman & Newman',
     'Selenium Webdriver, IDE & Grid',
-    'Trello & Zephyr Scale',
     'Playwright',
     'Apache JMeter',
     'CI/CD',
-    'Jenkins',
-    'API Testing',
-    'Confluence',
-    'Blazemeter',
     'Git',
     'Github',
-    'GitLab',
-    'Docker',
-    'Http',
-    'CSS',
     'MySQL',
     'PostgreSQL',
   ],
   experiences: [
     {
-      company: 'Self-Employed',
-      position: 'Freelance AI Quality Assurance Engineer',
+      company: '6TechSolutions',
+      position: 'Founder & Lead Software Engineer',
+      from: 'September 2025',
+      to: 'Present',
+    },
+    {
+      company: 'Freelancer',
+      position: 'Freelance AI & Automation Engineer',
       from: 'November 2023',
       to: 'Present',
     },
@@ -145,14 +143,12 @@ const CONFIG = {
       position: 'Artificial Intelligence Trainer & Researcher',
       from: 'February 2023',
       to: 'November 2023',
-      companyLink: 'https://scale.com/',
     },
     {
       company: 'Filmhouse',
       position: 'Manual Quality Assurance Engineer',
       from: 'June 2021',
-      to: 'January 2023',
-      companyLink: 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.filmhouseng.com/about-us&ved=2ahUKEwiJo9GS_viHAxUlQEEAHXVSNc4QFnoECAcQAQ&usg=AOvVaw2msl9Ap4XziT8JqFNfdgxy',
+      to: 'January 2022',
     },
   ],
   certifications: [
@@ -160,7 +156,6 @@ const CONFIG = {
       name: 'The Complete 2023 Software Testing Bootcamp',
       body: 'Udemy',
       year: 'March 2024',
-      link: 'https://example.com',
     },
     /*{
       name: 'Kotlin Development Masterclass',
@@ -170,6 +165,12 @@ const CONFIG = {
     */
   ],
   educations: [
+    {
+      institution: 'University of Ibadan',
+      degree: 'M.Sc. Managerial Psychology',
+      from: '2023',
+      to: '2025',
+    },
     {
       institution: 'University of Ibadan',
       degree: 'B.Ed. Counseling Psychology',
@@ -273,13 +274,6 @@ const CONFIG = {
       '--rounded-btn': '3rem',
     },
   },
-
-  // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
 
   enablePWA: true,
 };
