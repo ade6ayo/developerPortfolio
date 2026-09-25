@@ -134,7 +134,7 @@ const CONFIG = {
     },
     {
       company: 'Freelancer',
-      position: 'Freelance AI & Automation Engineer',
+      position: 'Freelance Software & Automation Engineer',
       from: 'November 2023',
       to: 'Present',
     },
@@ -165,12 +165,12 @@ const CONFIG = {
     */
   ],
   educations: [
-    {
+    /* {
       institution: 'University of Ibadan',
       degree: 'M.Sc. Managerial Psychology',
       from: '2023',
       to: '2025',
-    },
+    }, */
     {
       institution: 'University of Ibadan',
       degree: 'B.Ed. Counseling Psychology',
